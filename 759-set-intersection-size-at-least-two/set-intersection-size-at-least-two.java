@@ -1,5 +1,3 @@
-// import java.util.Arrays;
-
 class Solution {
     public int intersectionSizeTwo(int[][] intervals) {
         // Step 1: Sort by end ascending, and if tie, by start descending
